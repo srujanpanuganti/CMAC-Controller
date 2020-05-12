@@ -29,7 +29,7 @@ To execute the Discrete CMAC controller
 The results can be found in the report CMAC_report.pdf 
 
 <p align="center">
-<img src="images/CMAC.JPG" alt="CMAC Result" width="260" >
+<img src="images/CMAC.JPG" alt="CMAC Result" width="480" >
 </p>
 <p align="center">
 <em>CMAC Controller Results</em>
