@@ -26,7 +26,7 @@ To execute the Discrete CMAC controller
 `python3 src/discrete_CMAC.py`
 
 ## Results
-The results can be found in the report CMAC_report.pdf 
+The results can be found in the report doc/CMAC_report.pdf 
 
 <p align="center">
 <img src="images/CMAC.JPG" alt="CMAC Result" width="480" >
