@@ -19,3 +19,11 @@ To execute the Discrete CMAC controller
 
 ## Results
 The results can be found in the report CMAC_report.pdf 
+
+<p align="center">
+<img src="images/8Puzzle.gif" alt="8puzzle" width="260" >
+</p>
+<p align="center">
+<em>8 Puzzle game</em>
+</p>
+
