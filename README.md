@@ -1,5 +1,21 @@
-Cerebellar Model Articulation Controller (CMAC) is a model proposed by James Albus primarily used in application of robotic controllers.
-This repository has the implementation of a discrete CMAC controller and continuous CMAC controller.
+# Project - Cerebellar Model Articulation Controller
 
-continuous_CMAC.py implements continuous CMAC controller 
-discrete_CMAC.py implements the discrete CMAC controller
+Cerebellar Model Articulation Controller (CMAC) is a model proposed by James Albus primarily used in application of robotic controllers.
+
+This Project implementats a discrete CMAC controller
+This Project implementats a continuous CMAC controller.
+
+## Execution
+
+### Continuous CMAC controller 
+To execute the Continuous CMAC controller
+
+`python3 continuous_CMAC.py`
+
+### Continuous CMAC controller 
+To execute the Discrete CMAC controller
+
+`python3 discrete_CMAC.py`
+
+## Results
+The results can be found in the report CMAC_report.pdf 
